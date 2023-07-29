@@ -4,9 +4,20 @@ button{
 }
 
 body{
+ 
     font-family: 'Roboto', sans-serif;
 }
 
-  .Carrot{
-    background-color: gray;
+  .carrot{
+    gap: 50px;
+    background-color:whitesmoke;
+    border: none;
   }  
+  
+  
+  .healthy{
+    background-color: gray;
+  }
+  .cauliflower{
+    background-color: gray;
+  }
