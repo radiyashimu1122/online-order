@@ -21,3 +21,36 @@ body{
   .cauliflower{
     background-color: gray;
   }
+  .add{
+    border: 1px solid black;
+  }
+  .order{
+    color: orangered;
+  }
+ /* This is footer section start */
+ .mother{
+  width: 100%;
+  display: inline-flex;
+  gap: 10%;
+  border-bottom: 1px solid gray;
+ }
+ .gettheapp{
+  width: 20%;
+  text-align: justify;
+  border-bottom: 1px solid gray;
+ }
+ .information{
+  margin-top: 40px;
+  width: 20%;
+ }
+ .userarea{
+  width: 20%;
+  margin-top:40px ;
+ }
+ .contactinfo{
+  width: 20%;
+  margin-top: 30px;
+ }
+ .radiya{
+  border-top: 1px solid gray;
+ }
